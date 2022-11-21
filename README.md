@@ -12,3 +12,5 @@ Links:
 [Official website](https://asherv.com/threes/)
 
 [Official browser clone](https://play.threesgame.com) (buggy, often crashes; for a more stable implementation, try [this unofficial clone](https://xp2-882030kgz010602.github.io/Threes/) by [xp3_xggk171z8e82](https://github.com/xp2-882030kgz010602))
+
+[YouTube video of gameplay](https://www.youtube.com/watch?v=u1YhlmrDLVQ&list=PLu9KQXA-jr1hB6Oiz-yh0t99L12KMqXOE&index=3)
